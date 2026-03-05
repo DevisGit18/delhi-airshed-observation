@@ -1,4 +1,4 @@
-# SRIP 2026 - Earth Observation: Delhi Airshed Land Use Classification
+# Earth Observation: Delhi Airshed Land Use Classification
 
 ## Dataset
 - Source: Sentinel-2 RGB patches (128x128px, 10m/pixel), ESA WorldCover 2021
@@ -31,4 +31,4 @@
 Python, GeoPandas, Rasterio, PyTorch, ResNet18, Scikit-learn
 
 ## Disclosure
-AI tools (Claude) were used as a coding assistant. All code is fully understood and can be explained during the one-on-one evaluation.
+AI tools (Claude) were used ,can be explained if reqd
